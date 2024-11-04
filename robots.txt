@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elegeadu.github.io/DIA/sitemap_index.txt
+Sitemap: https://elegeadu.github.io/QFH/sitemap_index.txt
+Sitemap: https://elegeadu.github.io/VFO/sitemap_index.txt
+Sitemap: https://elegeadu.github.io/bUE/sitemap_index.txt
